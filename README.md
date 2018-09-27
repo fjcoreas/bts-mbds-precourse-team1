@@ -22,7 +22,7 @@ Data source: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-t
 The data set contains following 7 columns:
 * dt: date of the recording in the following format YYYY-MM-DD
 * AverageTemperature: the average temperature in Celsius
-* AverageTemperatureUncertainty: the uncertainty in the the previous measure (AverageTemperature)
+* AverageTemperatureUncertainty: the uncertainty in the previous measure (AverageTemperature)
 * City: the city where the average temperature was measured
 * Country: the country where the average temperature was measured
 * Latitude: the latitude where the temperature was measured
